@@ -1,0 +1,724 @@
+abrv	meaning	similarity
+HLA	human leukocyte antigen	0.5559579730033875
+SARS	severe acute respiratory syndrome	0.5099183320999146
+OR	Odds ratio	0.6955205202102661
+SIR	Susceptible-Infected-Removed	0.0
+SARS-CoV	SARS-associated coronavirus	0.8561398386955261
+ssRNA	single-stranded RNA	0.78696209192276
+TGV	Transmissible Gastroenteritis Virus	0.029477275907993317
+FCoV	Feline CoronaVirus	0.5027206540107727
+API	air pollution index	0.17814981937408447
+GIS	"Geographic Information Systems"""	0.4811896085739136
+NHS	National Health Service	0.651776909828186
+HCV	hepatitis C virus	0.7837085127830505
+SNP	single nucleotide polymorphism	0.7426031827926636
+CFTR	cystic fibrosis transmembrane conductance regulator	0.6608175039291382
+ICUs	intensive care units	0.740110456943512
+Igf2r	receptor	0.17462101578712463
+Ctcf	transcriptional regulator	0.35578933358192444
+per day	day	0.8316720128059387
+CoV	coronavirus	0.7138033509254456
+PBMCs	peripheral blood mononuclear cells	0.736804723739624
+Gc	glycoprotein	0.47156307101249695
+SAN	Sandfly fever virus	-0.041885457932949066
+E1	envelope protein 1	0.34344083070755005
+SIN	Sindbis virus	0.4387885332107544
+sg	subgenomic	0.46724870800971985
+N	nucleocapsid	0.24083462357521057
+-	during the	0.14515988528728485
+RV	Rubella virus	0.20867961645126343
+PTGS	post-transcriptional gene silencing	0.6857695579528809
+HRCT	high resolution computerized tomography	0.6415048241615295
+MRI	magnetic resonance imaging	0.8124457597732544
+LAB	lactic acid bacterium	0.6438289284706116
+hospital thermometer	home thermometer). The reference standard was a temperature measured by a nurse with a model of tympanic thermometer commonly used in hospitals	0.6210399866104126
+siRNA	interfering RNA	0.5931602120399475
+LNA	Locked Nucleic Acid	0.5361305475234985
+HTs	horizontal transfers	0.031194765120744705
+i	in	0.1087336391210556
+HCoV-OC43	coronaviruses OC43	0.8347069025039673
+HCoV-229E	) and 229E	0.7489611506462097
+HCoV-NL63	coronavirus NL63	0.8271228671073914
+GFP	green fluorescent protein	0.7831242680549622
+HSV-1	herpes simplex virus type 1	0.7903916835784912
+HCMV	cytomegalovirus	0.7818991541862488
+HFFs	human foreskin fibroblasts	0.6244068741798401
+IE	immediate early	0.36023640632629395
+ICU	intensive care unit	0.7562124133110046
+cDNA RDA	representational difference analysis	0.2988780736923218
+LOS	length of stay	0.7648359537124634
+CO1	cytochrome oxidase subunit-1	0.3715142607688904
+D allele	allele	0.8281609416007996
+ACE	angiotensin converting enzyme	0.7763632535934448
+ARDS	adult respiratory distress syndrome	0.6519518494606018
+I/D	insertion/deletion	0.7801942825317383
+EGCg	(—)-epigallocatechin gallte	0.0
+EC	epicatechin	0.09310036152601242
+TP	theophylline	0.15827471017837524
+C	catechin	0.05317126214504242
+ECg	epicatechin gallate	0.7514255046844482
+EGC	epigallocatechin	0.5018555521965027
+TF3	theaflavin-3,3′-digallate	0.0
+GO	Gene Ontology	0.7516540884971619
+TGF-beta	transforming growth factor-beta	0.717752993106842
+SPR Opt	SNP and PCR-RFLP Optimization	0.25024959444999695
+PCR-RFLP	PCR-Restriction Fragment Length Polymorphism	0.5238234996795654
+dsRNA	double-stranded RNA	0.74767005443573
+BALF	bronchoalveolar lavage fluid	0.8521414995193481
+AM	alveolar macrophages	0.36850056052207947
+63.3%	63.3%), and surveillance	0.7927036881446838
+HIV	human immunodeficiency virus	0.6003181338310242
+E	envelope glycoprotein	0.18875092267990112
+WNV	West Nile virus	0.7737051844596863
+DENV	dengue virus	0.8605568408966064
+SARS CoV	acute respiratory syndrome coronavirus	0.673104465007782
+PSG	pregnancy-specific glycoprotein	0.13249170780181885
+LRTI	lower respiratory tract infection	0.6139490604400635
+CoVs	coronaviruses	0.7632815837860107
+PS	phosphatidylserine	0.49559125304222107
+MS	mucus simulants	-0.024412713944911957
+SCM	simulated cough machine	0.14648549258708954
+HSV	Herpes simplex virus	0.8811520934104919
+IFN	interferons	0.7599639296531677
+IDUs	injecting drug users	0.6970943212509155
+SCV	SARS coronavirus	0.20027025043964386
+RBD	receptor-binding domain	0.5830515623092651
+VRD	Viral Receptor Disease	0.07476820051670074
+scFv	single-chain fragment variable	0.7687787413597107
+GAP	generalized associate plots	0.21363304555416107
+SAP	Sequencing Analysis Pipeline	-0.0072689601220190525
+ED	emergency department	0.793365478515625
+ARIMA	autoregressive integrated moving average	0.6555491089820862
+MAPE	mean absolute percentage error	0.5126055479049683
+IEDB	Immune Epitope Database and Analysis Resource	0.5454723238945007
+CV	coefficient of variation	0.5535790324211121
+ts	temperature-sensitive	0.8233200907707214
+GAPDH	glyceraldehyde-3P-dehydrogenase	0.0
+H5N1/97	H5N1 viruses in 1997 (A/Hong Kong/483/97)	0.724869966506958
+IL-6	interleukin 6	0.6779205203056335
+ISH	situ hybridization	0.7916216254234314
+EBOV	Ebola virus	0.8042904138565063
+PMOs	phosphorodiamidate morpholino oligomers	0.658349335193634
+VPs	viral proteins	0.3144085705280304
+TUD	Tetranucleotide usage deviation	0.1819848269224167
+g-POCT device	point-of-care testing device	0.6628416180610657
+LAMP	Loop mediated isothermal Amplification	0.4248271882534027
+PEI	polyethylenimine	0.7620372772216797
+RT-PCR	reverse transcriptase polymerase chain reaction	0.6646826267242432
+PCV2	Porcine circovirus 2	0.6314849257469177
+PCR	polymer chain reaction	0.4792608320713043
+EBV	Epstein-Barr virus	0.8347746133804321
+NPC	nasopharyngeal carcinoma	0.546940803527832
+TC	transnational competence	0.023043643683195114
+env	envelope	0.470162570476532
+NHPs	nonhuman primates	0.6996117830276489
+PH	public health	0.09310028702020645
+HCPs	Health care professionals	0.6565684080123901
+rAd	replication-defective adenoviral vectors	0.8242412805557251
+GP	glycoprotein	0.367387592792511
+NP	nucleoprotein	0.5566679239273071
+CVB3	coxsackievirus B3	0.6895653605461121
+ECG	3-gallate	0.1901749223470688
+FMDV	foot and mouth disease virus	0.45105260610580444
+SNPs	single nucleotide polymorphisms	0.7268906831741333
+COPD	chronic obstructive pulmonary disease	0.7067065238952637
+A-MLV	amphotropic murine leukemia virus	0.6595483422279358
+VSV-G	vesicular stomatitis virus glycoprotein	0.7034411430358887
+mAbs	monoclonal antibodies	0.8678683638572693
+S	spike	0.18705463409423828
+RSV	Respiratory syncytial virus	0.7528433203697205
+FP	fluticasone propionate	0.39831236004829407
+Sal	salmeterol	0.12669843435287476
+FPS	plus Sal	0.06958121061325073
+OVA	ovalbumin	0.7807920575141907
+AHR	airway hyperreactivity	0.6851963400840759
+MHCs	major histocompatibility complex proteins	0.38945111632347107
+SVR	support vector machine regression	0.18731988966464996
+ROC	Receiver Operating Characteristic	0.7304835915565491
+SSH	suppressive subtractive hybridization	0.70136559009552
+CDM	1-cinnamoyl-3,11-dihydroxymeliacarpin	0.0
+FLS	fibroblast-like synoviocytes	0.7563050389289856
+RA	rheumatoid arthritis	0.7981409430503845
+MMPs	matrix metalloproteinases	0.8437064290046692
+JNK	c-Jun-NH(2)-terminal kinase	0.7148374319076538
+EMSA	electrophoretic mobility shift assay	0.7280354499816895
+ChIP	chromatin immunoprecipitation	0.7886732220649719
+AP-1	activator protein 1	0.4816836416721344
+LHD	local health departments	0.23183707892894745
+SHD	state health departments	0.13665595650672913
+RNAi	interference	0.5658911466598511
+OAS1	2',5'-oligoadenylate synthetase 1	0.288427472114563
+MxA	myxovirus resistance 1	0.41733798384666443
+RFLP	Restriction Fragment Length Polymorphism	0.6189543604850769
+3'-UTR	3'-untranslated region	0.8057331442832947
+hBoV	bocavirus	0.7122960090637207
+NPA	nasopharyngeal aspirates	0.42071354389190674
+HCWs	healthcare workers	0.6731074452400208
+PPS	personal protection system	0.06883946061134338
+ACLS	advanced cardiac life support	0.43783116340637207
+PICU	paediatric intensive care unit	0.757123589515686
+VSV	vesicular stomatitis virus	0.8332733511924744
+BC	British Columbia	0.36325693130493164
+siRNAs	interfering RNAs	0.6941015124320984
+WHO	World Health Organization	0.8120079636573792
+LPV/r	lopinavir and ritonavir	0.7802762985229492
+IVIG	intravenous immunoglobulin	0.6928688883781433
+CENTRAL	Central Register of Controlled Trials	0.7788868546485901
+ROS	reactive oxygen species	0.7557653784751892
+MTS	moderate-throughput screening	0.005686238873749971
+HSA	Health Sector Assessment	0.026980994269251823
+IBV	Infectious bronchitis virus	0.5946054458618164
+Mass	Massachusetts	0.1431993693113327
+ALI	air-liquid interface	0.29669997096061707
+PTAC	Provincial Transfer Authorization Centre	0.2962259352207184
+95%	selected patient transfer records, 95	0.5387868285179138
+ORF	open reading frame	0.722046434879303
+ORFs	reading frames	0.7085011601448059
+C. burnetii	burnetii	0.9058805704116821
+PHI	personal health information	0.24035388231277466
+NDP	National Bioterrorism Syndromic Surveillance Demonstration Program	0.10898187011480331
+FGF2	Fibroblast growth factor 2	0.6450808644294739
+CHO	Chinese Hamster Ovary	0.5403244495391846
+ITO	indium tin oxide	0.7370346188545227
+Endo IV	endonuclease IV	0.7369298338890076
+HK	histidine kinase	0.2603335976600647
+SBVS	structure-based virtual screening	0.6925579905509949
+TCS	two-component system	0.31724703311920166
+PATRIC	PathoSystems Resource Integration Center	0.5511561036109924
+BRCs	Bioinformatics Resource Centers	0.4818767011165619
+NIAID	National Institute of Allergy and Infection Diseases	0.7148627638816833
+LEFS	Lower Extremity Function Scale	0.6605815887451172
+6 MWT	minute walk test	0.40454986691474915
+TUG	timed up and go test	0.43710044026374817
+ST	stair test	0.14421799778938293
+VRP	virus replicon particles	0.5097276568412781
+MMDB	Molecular Modeling Database	0.528148353099823
+CTL	cytotoxic T cell	0.6952471733093262
+MHC II	major histocompatibility complex type II	0.8288024663925171
+aa	15-amino acids	0.6418026089668274
+HCP	health care professionals	0.5138822197914124
+MR	Mass Restricted	0.09358120709657669
+SELDI	surface-enhanced laser desorption ionization	0.6560146808624268
+HCoV	coronavirus	0.7471866607666016
+CCU	Common Cold Unit	0.2567158639431
+INSDC,	International Nucleotide Sequence Database Collaboration	0.5432091951370239
+DDBJ	DNA Data Bank of Japan	0.5143201351165771
+OME	otitis media with effusion	0.7200408577919006
+HBoV	bocavirus	0.7701260447502136
+vtg	vitellogenin	0.7722344398498535
+cyp1a	cytochrome P450 1A	0.3875525891780853
+ii	in genomic databases,	0.21231500804424286
+TF	transcription factor	0.5880178213119507
+VV	vaccinia virus	0.6537522673606873
+WR	Western Reserve	0.15731050074100494
+FIPV	feline infectious peritonitis virus	0.7031573057174683
+TGEV	transmissible gastroenteritis virus	0.718520998954773
+PIV-3	parainfluenza virus-3	0.7919619083404541
+BRSV	bovine respiratory syncytial virus	0.7680349349975586
+BCV	bovine coronavirus	0.5286673307418823
+BAV-3	adenovirus-3	0.0
+BVDV	bovine virus diarrhoea virus	0.7736630439758301
+ETEC	enterotoxigenic Escherichia coli	0.8074066042900085
+HPAI	highly pathogenic avian influenza	0.7643716931343079
+TB	tuberculosis	0.7749726176261902
+Ubl	ubiquitin-like proteins	0.7150033712387085
+HRSV	human respiratory syncytial virus	0.7163105607032776
+HMPV	metapneumovirus	0.756834864616394
+F	fusion	0.1243041381239891
+indel	insertion and deletion	0.4934733211994171
+CEACAMs	(CEA)-related cell adhesion molecules	0.5884441137313843
+Nm	Neisseria meningitidis	0.3962763547897339
+Hi	Haemophilus influenzae	0.4549703598022461
+DPO	dual priming oligonucleotide	0.1273016780614853
+AOM	acute otitis media	0.6412486433982849
+ET	eustachian tube	0.15190176665782928
+FMD	foot and mouth disease	0.16232185065746307
+GB	Great Britain	0.16926537454128265
+MCMC	Markov Chain Monte Carlo	0.8476015329360962
+ATL	American tegumentary leishmaniasis	0.21657028794288635
+PBMC	peripheral blood mononuclear cell	0.7082449197769165
+NADPH	nicotinamide adenine dinucleotide phosphate	0.5543248057365417
+NCF1	neutrophil cytosolic factor 1	0.3462601900100708
+PIA	pristane-induced arthritis	0.329936683177948
+DA	dark agouti	0.19492954015731812
+LPS	lipolysaccaride	0.0
+OA	osteoarthritic	0.7063201069831848
+V	variation	0.09425520896911621
+COXs	Cyclooxygenases	0.722551167011261
+MHV	mouse hepatitis coronavirus	0.6885010600090027
+US	United States	0.5962485074996948
+CI	Confidence Interval	0.6706669926643372
+Trx1	thioredoxin-1	0.7214356660842896
+DUBs	deubiquitinating proteases	0.7624898552894592
+nsp1	non-structural protein 1	0.49861687421798706
+IFNs	interferons	0.8607863187789917
+spherules	FHV-specific 5-bromouridine 5'-triphosphate incorporation localized between inner and outer mitochondrial membranes inside ∼50-nm vesicles	0.4137638509273529
+NK	natural killer	0.7209308743476868
+MCMV	cytomegalovirus	0.6807050108909607
+pDCs	plasmacytoid dendritic cells	0.7174619436264038
+cDC	conventional dendritic cell	0.5044614672660828
+CTV	Citrus tristeza virus	0.3712415397167206
+real-time RT-qPCR	Real-time reverse transcriptase quantitative polymerase chain reaction	0.766945481300354
+CPPs	cell-penetrating peptides	0.7475073933601379
+URI	upper respiratory infections	0.5626165866851807
+ECD	electrochemical detection	0.289890855550766
+HRVs	Human rhinoviruses	0.6661533713340759
+“C”	group	0.17381228506565094
+TNT–PNA	tandem nucleic acid mass tag–peptide nucleic acid	0.428679496049881
+PRF	programmed ribosomal frameshifts	0.18734867870807648
+HIV-1	human immunodeficiency virus type 1	0.6476904153823853
+rRNA	ribosomal RNA	0.6497908234596252
+ACE2	angiotensin-converting enzyme 2	0.5995543599128723
+ON	osteonecrosis	0.12232589721679688
+MSCs	mesenchymal stem cells	0.7714945077896118
+SU	subunit	0.037526000291109085
+Env	envelope glycoprotein	0.6428059339523315
+TM	transmembrane subunit	0.4624871015548706
+ALV-A	leukosis virus-A	0.43476924300193787
+PGG	Penta-O-galloyl-glucopyranose	0.0
+eIF3	eukaryotic initiation factor 3	0.5373825430870056
+suPAR	soluble urokinase-type plasminogen activator	0.4689704477787018
+MIF	migration inhibitory factor	0.47203508019447327
+CRP	C-reactive protein	0.7947092056274414
+PCT	procalcitonin	0.7031691074371338
+SLPI	secretory leukocyte protease inhibitor	0.6105209589004517
+LCMV	lymphocytic choriomeningitis virus	0.7745875120162964
+OMP	outer membrane protein	0.5560101866722107
+FUT2	functional alpha-1,2-fucosyltransferase	0.13198339939117432
+HBGAs	histo-blood group antigens	0.7041813135147095
+VLPs	virus-like particles	0.799759566783905
+RC	Resource Center	0.09414954483509064
+PRCs	Proteomics Research Centers	0.13972406089305878
+UniProtKB	Knowledgebase	0.7672927379608154
+PTM	post-translational modification	0.6943687200546265
+AROC	area under the ROC curve	0.6467435956001282
+MHC	major histocompatibility complex	0.7258601784706116
+Pfam	Protein Families database	0.6053199768066406
+EID	emerging infectious diseases	0.24196651577949524
+RODS	Real-time Outbreak and Disease Surveillance	0.50190269947052
+GI	gastrointestinal	0.865227222442627
+MPO	myeloperoxidase	0.8159293532371521
+ECP	eosinophil cationic protein	0.6316426992416382
+p = 0.0081	0.0081) and in patients with allergic rhinitis	0.4177009165287018
+HPS	Health Promoting School	0.05332500860095024
+TcR	cell receptors	0.33970072865486145
+ARIs	Acute respiratory illnesses	0.49283137917518616
+CCQ	common cold questionnaire	0.35040023922920227
+FAST	fusion-associated small transmembrane	0.10544022172689438
+TMD	transmembrane domain	0.475681871175766
+PV	poliovirus	0.17310941219329834
+Rz	ribozyme	0.4452351927757263
+ARTIs	respiratory tract infections	0.6667614579200745
+HCoV 229E	coronavirus 229E	0.949984073638916
+DCs	dendritic cells	0.7506872415542603
+HPeV	parechovirus	0.7420434355735779
+FIV	Feline immunodeficiency virus	0.803580105304718
+PBC	Primary biliary cirrhosis	0.629593551158905
+AMA	anti-mitochondrial antibodies	0.4503304362297058
+LACV	La Crosse virus	0.6644970774650574
+CNS	central nervous system	0.785764753818512
+NPV	nucleopolyhedroviruses	0.23907843232154846
+VSV G	vesicular stomatitis virus glycoprotein	0.7190989851951599
+THOV	Thogoto virus	0.7779095768928528
+AcMNPV	Autographa california multiple NPV	0.7132395505905151
+GMTs	geometric mean titres	0.6411687731742859
+PCR-SBT	sequencing based typing	0.5902522206306458
+HA	Hepatitis A	0.18042030930519104
+RTC	replication/transcription complex	0.4174128770828247
+nsps	non-structural proteins	0.6490545272827148
+HCT	hierarchical clustering tree	-0.05014472082257271
+SVD	singular value decomposition	0.5659122467041016
+CD13	CD13/Aminopeptidase N	0.1015474796295166
+bFGF	basic fibroblast growth factor	0.7516641020774841
+ALL	kDa (18kD) or all	0.043906521052122116
+ESOs	Exon skipping oligonucleotides	0.2831595242023468
+DMD	Duchenne Muscular Dystrophy	0.7488057017326355
+PEG	poly(ethylene glycol)	0.7340657711029053
+TA	tibialis anterior	0.4841182827949524
+NG	nanogold	0.05883350223302841
+CG	colloidal gold	0.02690131962299347
+TG	thyroglobulin	0.28992578387260437
+JV	Jena Virus	0.2392658144235611
+CT and TT	contacts showed that individuals with the +1664 C/T	0.4221980571746826
+ISAV	Infectious salmon anemia virus	0.6413148045539856
+CM	cumulative mortality	0.1748550981283188
+DPI	days post-infection	0.4001845419406891
+DPI)	post-infection	0.4067102074623108
+diagnostic accuracy	Diagnostic accuracy studies need to include multiple types of graphic in order to provide both a detailed overview of the results	0.5120279788970947
+PCD	programmed cell death	0.683868408203125
+miRNA	. In this study, we tested a multiplex microRNA	0.48259827494621277
+CEACAM1	carcinoembryonic antigen-related cell adhesion molecule 1	0.5912410020828247
+vRNA	RNA	0.6834327578544617
+RCs	replication complexes	0.2738480567932129
+BFA	brefeldin A	0.7569940090179443
+DDT	dideoxy-terminators	0.0
+Hu	human	0.14640863239765167
+Mo	mouse	-0.02761627733707428
+hMPV	Human metapneumovirus	0.6572223901748657
+wt	wild type	0.5605870485305786
+TLRs	Toll-like receptors	0.8135919570922852
+FPR	formyl peptide receptor	0.4189402759075165
+UPS	ubiquitin/proteasome system	0.7256884574890137
+LC-CD133(+)	cells. Herein we report the isolation of CD133-positive cells	0.1542743295431137
+LC	lung cancer	0.15313267707824707
+PARP	poly (ADP-ribose) polymerase	0.47711944580078125
+M	membrane	0.04629787802696228
+BS	bats	0.027378814294934273
+ER	endoplasmic reticulum	0.7364861965179443
+CCC	child care centres	0.02360025979578495
+NA	neuraminidase	0.4456939399242401
+NAI	neuraminidase inhibitor	0.5039907097816467
+APTT	activated partial thromboplastin time	0.7629217505455017
+HP	highly pathogenic	0.06768052279949188
+LP	low pathogenic	0.10126052051782608
+shRNAs	hairpin RNAs	0.5851790904998779
+PSGs	positively selected genes	0.27616259455680847
+CNVs	Copy Number Variations	0.42633819580078125
+PAQ	Partition Analysis of Quasispecies	0.2753130793571472
+OAG	Official Airline Guide	-0.016766371205449104
+SLE	systemic lupus erythematosus	0.8423862457275391
+qRT-PCR	quantitative real-time RT-PCR	0.8640956282615662
+EF1A	elongation factor 1A	0.40113452076911926
+Ubi	ubiquitin	0.38198885321617126
+ARP	acidic ribosomal protein	0.23457804322242737
+S9	, ribosomal protein S9	0.6991850733757019
+ribosomal protein	ribosomal protein S9 (S9	0.6340073347091675
+RPL4	ribosomal protein L4	0.45644253492355347
+CDSS	computerised decision support system	0.6053071618080139
+CAP	community acquired pneumonia	0.4418439269065857
+NHM	Natural herbal medicine	0.20565755665302277
+IRS	improving chest radiographic scores	0.07892811298370361
+DI	days) till improvement	0.1632193624973297
+ERM	Enteric Redmouth	-0.013639717362821102
+PC	protein C	0.22845403850078583
+AT–III	antithrombin III	0.5967199206352234
+PAI	plasminogen activator inhibitor	0.5985492467880249
+APC–R	activated protein C resistance	0.4325200617313385
+PLG	plasminogen	0.469126433134079
+D–D	dimer	0.16185234487056732
+Fib	fibrinogen	0.7270034551620483
+HCY	homocysteine	0.8224771022796631
+ELISA	enzyme-linked immunosorbent assay	0.8807994723320007
+PEP	post-exposure prophylaxis	0.2847757339477539
+DMVs	double-membrane vesicles	0.713016927242279
+WTA	Whole Transcriptome Amplification	0.1337651163339615
+CRT	calreticulin	0.38550513982772827
+CRT/E7	CRT) linked to human papillomavirus type 16 E7 antigen	0.34653717279434204
+VEEV	Venezuelan equine encephalitis virus	0.7775971293449402
+WEEV	Western equine encephalitis virus	0.7173802852630615
+EEEV	equine encephalitis virus	0.7317915558815002
+CHIKV	Chikungunya virus	0.7574156522750854
+ETS	environmental tobacco smoke	0.6543707847595215
+PDD	Proventricular dilatation disease	0.15447081625461578
+ABV	avian bornavirus	0.5036684274673462
+BCG	Bacille Calmette-Guérin	0.753957986831665
+nsp	non-structural protein	0.5632078051567078
+PFTs	Pore-forming toxins	0.2769847810268402
+UPR	unfolded protein response	0.6283193826675415
+CATI	Computer Assisted Telephone Interviewing	0.6068001985549927
+Ad5	adenovirus serotype 5	0.6571935415267944
+I.M.	intramuscular	0.5316135287284851
+I.N.	I.M.), nasal	0.4892326593399048
+BAL	bronchioalveolar lavage fluid	0.8246399164199829
+HFRS	hemorrhagic fever with renal syndrome	0.5755236148834229
+ERK1/2	external signal-regulated kinases 1 and 2	0.7017837762832642
+APM	Acanthamoeba polyphaga mimivirus	0.05831450968980789
+NE	nephropathia epidemica	0.15030574798583984
+PUUV	Puumala virus	0.8145826458930969
+Ig	immunoglobulin	0.8600636124610901
+SARS-CoVs	coronaviruses	0.6660076379776001
+nAbs	neutralizing antibodies	0.7083626389503479
+BnAbs	nAbs	0.7779546976089478
+AID	activation-induced cytidine deaminase	0.6641094088554382
+SHM	Somatic hypermutation	0.726839542388916
+NS1	non-structural protein 1	0.6457439661026001
+SOCS-3	suppressor of cytokine signaling-3	0.6478310823440552
+STAT1	signal transducer and activator of transcription protein 1	0.51409912109375
+CMV	cytomegalovirus	0.8437425494194031
+VZV	varicella-zoster virus	0.8640652894973755
+VHFs	viral hemorrhagic fevers	0.6382004618644714
+Ads	adenoviruses	0.7472378015518188
+TLR	Toll-like receptors	0.7961556911468506
++	system pcDNA3.1	0.2043343037366867
+AECOPD	acute exacerbation of chronic obstructive pulmonary disease	0.677270233631134
+PMO	phosphoramidate morpholino oligonucleotides	0.43089744448661804
+CPP	cell penetrating peptides	0.05645376071333885
+SHIV	simian-human immunodeficiency virus	0.82570880651474
+CBD	Cotton blue disease	0.13807277381420135
+CLRDV	Cotton leafroll dwarf virus	0.533839762210846
+Th	T helper cell	0.8171775937080383
+Cd	cadmium	0.7824743390083313
+CBA	cytometric bead-based array	0.2769436836242676
+iii	immune diagnostics; and	0.1836245059967041
+MNV	murine norovirus	0.6362833976745605
+MyD88(−/−)	identify host mediators of protection. Here, we report that mice deficient in MyD88	0.19077301025390625
+AI	Avian influenza	0.25355133414268494
+RTIs	respiratory tract infections	0.5872161388397217
+NPAs	nasopharyngeal aspirates	0.6146320700645447
+43%	225 symptomatic children, and 43	0.6127027869224548
+EHV-1	Equine herpesvirus type 1	0.6635813117027283
+siRNA's	interfering RNAs	0.46342986822128296
+FRI	Febrile respiratory illness	0.10022849589586258
+HRV	human rhinoviruses	0.2804986834526062
+HEV	HRV) and enteroviruses	0.5221683979034424
+SIV	Simian immunodeficiency virus	0.7605745196342468
+MVA	modified vaccinia Ankara	0.6229611039161682
+Nabs	neutralizing antibodies	0.6223872900009155
+NSCLC	non-small cell lung cancer	0.8633260726928711
+SCID	severe combined immunodeficiency	0.3936954736709595
+Ark DPI	Arkansas DPI	0.6841528415679932
+UTR	5'untranslated region	0.7513419389724731
+11–17 bp	bp), A. thaliana	0.5721051692962646
+RVFV	Rift Valley fever virus	0.7510214447975159
+ActD	actinomycin D	0.6635644435882568
+TCM	Traditional Chinese Medicine	0.5561236143112183
+LTNP	long-term non-progressors	0.7269260883331299
+Canis latrans	created immense financial consequences for the livestock industry and hunting public. Surveillance identified coyotes	0.35126474499702454
+ICLC	induced by double-stranded (ds)RNAs such as poly	0.4019522964954376
+LD	linkage disequilibrium	0.7142534255981445
+P < .01	.01) and correlation	0.7695791721343994
+SARS CoVMpro	SARS coronavirus main proteinase	0.7924453020095825
+MD	molecular dynamics	0.3360530734062195
+FeLV	feline leukemia virus	0.7392715811729431
+DNAI1	Dynein Axonemal Intermediate chain type 1	0.42719289660453796
+BMV	Brome mosaic virus	0.6938976645469666
+PTB	polypyrimidine tract binding protein	0.326240211725235
+UTI	urinary tract infection	0.7081078886985779
+F344	Fischer 344	0.8181329965591431
+P ≤ 0.0001	P ≤ 0.0001), with lesions that showed extensive uroepithelial hyperplasia	0.6401302814483643
+IHC	immunohistochemistry	0.8062039613723755
+PI	postinoculation	0.2053542584180832
+CAM	chorioallantoic membranes	0.3061901330947876
+CEK	chicken embryo kidney cells	0.3805766999721527
+PLS-DA	partial least squares to latent structures discriminate analysis	0.4311676025390625
+NW	New World	0.11933287978172302
+TfR1	transferrin receptor 1	0.5620572566986084
+CGMMV	Cucumber green mottle mosaic virus	0.7283632159233093
+CP	coat protein	0.36575549840927124
+dpi	21-days-postinculation	0.0
+DE	differentially expressed	0.4373115599155426
+ILI	influenza-like illness	0.7696961760520935
+PVM	pneumonia virus of mice	0.4187920391559601
+AGE	Acute gastroenteritis	0.19621621072292328
+DOP	Degenerate oligonucleotide primed	0.17318880558013916
+HBoV3	species 3	0.2844199538230896
+SDE	Standard Deviational Ellipse	0.26947006583213806
+SP-A	Surfactant protein-A	0.6014928817749023
+2D-DIGE	2-dimensional difference gel electrophoresis	0.65566086769104
+WT	wild type	0.6364143490791321
+KO	knockout	0.8580228090286255
+CPMV	Cowpea mosaic virus	0.7636976838111877
+DoD	Department of Defense	0.5731070637702942
+EDs	emergency departments	0.8041821718215942
+SD	standard deviation	0.7087208032608032
+LMIC	low and medium income countries	0.5272597670555115
+MAE	Master of Applied Epidemiology	-0.07087328284978867
+HAE	human ciliated airway epithelium	0.2636142671108246
+SUD	SARS-unique domain	0.045301079750061035
+IFN-I	infection by inducing type-1 interferons	0.6503959894180298
+CIHD	cellular inhibitor of the host defense	-0.10646699368953705
+SPR	surface plasmon resonance	0.7712372541427612
+MCPyV	Merkel cell polyomavirus	0.662770688533783
+shRNA	hairpin RNA	0.5276356339454651
+EGFP	enhanced green fluorescence protein	0.6842579245567322
+MBL	mannan-binding lectin	0.5824320912361145
+MASP2	MBL-associated serine protease-2	0.5083495378494263
+tagSNPs	single nucleotide polymorphisms	0.5935827493667603
+S1P	site 1 protease	0.13893459737300873
+CFA	confirmative factor analysis	0.25020503997802734
+SEM	structure equation modeling	0.08553574234247208
+CMs	covariance models	0.21559469401836395
+AHV-1	Anatid herpesvirus 1	0.57425457239151
+FQ-PCR	fluorescent quantitative real-time PCR	0.7597618103027344
+PFGE	pulsed-field gel electrophoresis	0.7530961632728577
+IRESs	Internal ribosomal entry sites	0.47965025901794434
+LDV	Lactate dehydrogenase-elevating virus	0.5931087732315063
+pDC's	plasmacytoid dendritic cells	0.5791310667991638
+TLR7	toll-like receptor 7	0.6189623475074768
+CK	chicken kidney	0.07860109955072403
+NO	nitric oxide	0.8736505508422852
+CCRs	chemokine receptors	0.41210001707077026
+CB	cord blood	0.35745468735694885
+TRAIL	TNF-related apoptosis-inducing ligand	0.8106738924980164
+SPF	specific pathogen-free	0.598919689655304
+RT	Reverse transcriptase	0.5762311816215515
+HMA	hexamethylene amiloride	0.4652511477470398
+HEK-293	embryonic kidney 293	0.6241493225097656
+SEC	size exclusion chromatography	0.7011521458625793
+Q-PCR	quantitative real-time PCR	0.8351445198059082
+pfu	plaque forming unit	0.33875125646591187
+p.i.	post-injection	0.7385768294334412
+CF	cystic fibrosis	0.6004014611244202
+ASL	airway surface liquid	0.32748666405677795
+PIV	parainfluenza virus	0.6262184381484985
+ICPC-2	International Classification of Primary Care 2(nd )version	0.518777072429657
+GPs	general practitioners	0.810477614402771
+HED	hospital emergency department	0.06240592151880264
+LCMV-GP	lymphocytic choriomeningitis virus glycoprotein	0.5644986629486084
+HAV	hepatitis A virus	0.7464115619659424
+NV	Norovirus	0.31441983580589294
+PIN1	Protein Never in Mitosis Gene A Interacting-1	0.21114784479141235
+iNOS	inducible nitric oxide synthase	0.7946205139160156
+MAEC	murine aortic endothelial cells	0.5412675142288208
+sh	short hairpin	0.4586004316806793
+PCR/ESI-MS	polymerase genes. The amplicons are detected using electrospray ionization-mass spectrometry	0.5460705161094666
+RAS	renin–angiotensin system	0.5623372793197632
+VISA	virus-induced signaling adaptor	0.15593087673187256
+DHF	dengue haemorrhagic fever	0.670555591583252
+DSS	dengue shock syndrome	0.26866257190704346
+SIRAS	single isomorphous replacement with anomalous scattering	0.6315677165985107
+SSEs	Super spreading events	0.06994057446718216
+vs.	versus	0.8836976289749146
+RSV B	respiratory syncytial virus B	0.7951450347900391
+HPV16	Papillomavirus Type 16	0.5044224858283997
+COX-2	Cyclooxygenase-2	0.6513746976852417
+CRC	colorectal cancer	0.8505384922027588
+DARE	Database of Reviews of Effectiveness	0.7466611862182617
+HPeVs	parechoviruses	0.7662590146064758
+HEPA	High-Efficiency Particulate Air	0.47745341062545776
+IRAS	imidazoline receptor antisera-selected protein	0.10167266428470612
+M2	matrix protein 2	0.16358689963817596
+LTCF	long-term care facility	0.6087103486061096
+mRNA	messenger RNA	0.6395968794822693
+RIDD	regulated Ire1-dependent decay	0.40295279026031494
+CFR	case fatality ratio	0.3600447475910187
+KSHV	Kaposi's sarcoma-associated herpesvirus	0.7142659425735474
+EGF	Epidermal Growth Factor	0.5220843553543091
+c-di-GMP	cyclic-di–guanosine monophosphate	0.5253425240516663
+YNP	Yellowstone National Park	0.6080257296562195
+CDV	canine distemper virus	0.834828794002533
+DHF/DSS	dengue hemorrhagic fever and dengue shock syndrome	0.7407490015029907
+UIDs	unique identifiers	0.6325297355651855
+ICDs	intracellular domains	-0.007758914493024349
+ACT	α(1)-antichymotrypsin	0.0
+CLU	clusterin	0.6704666018486023
+HAP	haptoglobin β-chain	0.026827475056052208
+LRG	leucine rich glycoprotein	0.2104288935661316
+APPs	acute-phase proteins	0.6163349747657776
+Nab	neutralizing antibodies	0.5419737696647644
+Mabs	monoclonal antibodies	0.8062864542007446
+PCN	protein cage nanoparticle	0.0522766150534153
+iBALT	inducible bronchus-associated lymphoid tissue	0.5202617645263672
+PEDV	porcine epidemic diarrhea virus	0.6868873834609985
+OM	otitis media	0.4105747640132904
+U.S.	United States	0.707879364490509
+IMAC	immobilized metal ion affinity chromatography	0.7626925110816956
+MID	minimal important difference	0.18588218092918396
+AUC	area under the time severity curve	0.5557754039764404
+GPV	Goose parvovirus	0.5162785053253174
+MTCT	Mother-to-child transmission	0.6782833933830261
+L-SIGN	liver/lymph node–specific ICAM-grabbing non-integrin	0.5815577507019043
+L-SIGN)	node–specific ICAM-grabbing non-integrin	0.593292236328125
+IU	in utero	0.032011378556489944
+IP	intrapartum	-0.03761748597025871
+BDV	Borna disease virus	0.7879247069358826
+G	glycoprotein	0.2685234844684601
+kDa	kilodaltons	0.8860163688659668
+VFP	viral fusion proteins	0.11009659618139267
+TCR	cell receptor	0.4522971510887146
+TBSV	Tomato bushy stunt virus	0.7364305853843689
+CPZ	chlorpromazine	0.7746338844299316
+QC	quinacrine	0.013595200143754482
+UDCA	Ursodeoxycholic acid	0.650316596031189
+GLT	germline transmission	0.08496183902025223
+HAART	highly active antiretroviral therapy	0.7624661326408386
+ELISPOTs	enzyme-linked immunospots	0.34581276774406433
+LDR	Ligase Detection Reaction	0.2144104540348053
+GALT	gut associated lymphoid tissues	0.6102472543716431
+ART	antiretroviral therapy	0.7282647490501404
+PICTs	Pacific Island Countries and Territories	0.5396366715431213
+for R(0	for R(0 )= 3.0) or 380	0.41089561581611633
+rDC	respiratory dendritic cells	0.44988882541656494
+DLN	draining lymph nodes	0.7302923202514648
+TLR3	toll-like receptors 3	0.6601595878601074
+BMDC	bone marrow–derived dendritic cells	0.6154893636703491
+JHMV	JHM strain of mouse hepatitis virus	0.7598220705986023
+BBB	blood-brain-barrier	0.7661170959472656
+GDP	gross domestic product	0.300342321395874
+PEDs	pediatric emergency departments	0.3799903392791748
+RNs	registered nurses	0.8017744421958923
+RTs	respiratory therapists	0.10599223524332047
+ATE	avian tracheal epithelial	0.013446633704006672
+MPP	Multiplex Primer Prediction	0.11429320275783539
+CTLD	C-type lectin domain	0.7552573084831238
+RSCU	relative synonymous codon usage	0.7089769244194031
+HPLC	High Performance Liquid Chromatography	0.6133356094360352
+BASCs	bronchoalveolar stem cells	0.5821985602378845
+AHC	acute hemorrhagic conjunctivitis	0.3613412380218506
+SMS	short message service	0.5202232003211975
+VTEC	verocytotoxin-producing Escherichia coli	0.6738617420196533
+cfu	colony forming units	0.5466598868370056
+IMS	immuno-magnetic separation	0.45249220728874207
+PCSK	Proprotein Convertase Subtilisin/Kexin	0.3638051748275757
+Eda	enediynyl amino acid”	0.24975542724132538
+CAMs	Cell adhesion molecules	0.5735241174697876
+PAM	Pregnancy-associated malaria	0.15215905010700226
+IEs	falciparum-infected erythrocytes	0.6405006647109985
+CSA	chondroitin sulphate A	0.17532096803188324
+VSA	variant surface antigens	0.2948831021785736
+n = 3	n = 3), G307S	0.9563080668449402
+AIDS	Acquired Immune Deficiency Syndrome	0.43269455432891846
+PF	pulmonary fibrosis	0.18643906712532043
+IRES	internal ribosome entry site	0.6021819114685059
+SPs	signal peptides	0.3353210687637329
+FOCMA	feline oncornavirus-associated cell membrane antigen	0.5876995325088501
+ICTV	International Committee on the Taxonomy of Viruses	0.6086205244064331
+RSPs	recombinant subviral particles	0.5791643857955933
+DV	dengue virus	0.33117982745170593
+IRE-1	inositol-requiring enzyme 1	0.5530980825424194
+ATF6	activating transcription factor 6	0.4534299969673157
+PERK	PKR-like ER kinase	0.7952260971069336
+ATF4	activating transcription factor 4	0.5426610112190247
+CHOP	C/EBP homologous protein	0.3440895080566406
+IFNAR1	alpha-receptor subunit 1	0.3675869405269623
+ATA	aurintricarboxylic acid	0.20942486822605133
+URT	upper respiratory tract	0.6978025436401367
+NPS	nasopharyngeal swab samples	0.17907755076885223
+n = 1	n = 11) and B	0.8909741044044495
+IPD	invasive pneumococcal disease	0.6258677244186401
+IgG	immunoglobulin G	0.5722821950912476
+BMDMs	marrow derived macrophages	0.554352879524231
+LLO	listeriolysin O	0.638558030128479
+LC3	light chain 3	0.3393855392932892
+PFO	perfringolysin O	0.15900923311710358
+CHPV	Chandipura Virus	0.6589077711105347
+VNTR	variable number tandem repeat	0.5377337336540222
+RdRp	RNA-dependent RNA polymerase	0.7917304039001465
+nsp12	nonstructural protein 12	0.49766606092453003
+CCV	canine coronavirus	0.3968488574028015
+8 items	items), academic exchanges and community education	0.47669538855552673
+HTS	high throughput screening	0.5940545201301575
+AFP	acute flaccid paralysis	0.17483150959014893
+RT-LAMP	transcription-loop-mediated isothermal amplification	0.6054348349571228
+HEV-C	enterovirus species C	0.6520557999610901
+MTB	Mycobacterium tuberculosis	0.8325796723365784
+MAPK	mitogen-activated protein kinase	0.8498216271400452
+MKP-1	phosphatase-1	0.6361189484596252
+ASPA	aspartoacylase	0.5944461226463318
+UK	Urokinase	0.0585373155772686
+PE	pulmonary embolism	0.3706701993942261
+UK-2 h	for 2 hours	0.788240909576416
+NHBE	normal human bronchial epithelial	0.5990573763847351
+HAT	human airway trypsin-like	0.23539674282073975
+ISGs	IFN-stimulated genes	0.7324384450912476
+SILAC	stable isotope labeling by amino acids in cell culture	0.5409426093101501
+SCCD	Secondary Case Count Difference	0.1146235242486
+IL-8	interleukin-8	0.8349179029464722
+RLR	RIG-I-like receptor	0.7005926370620728
+BM	bone-marrow	0.7147698998451233
+Macs	macrophages	0.3948899209499359
+Nc	number of codons	0.381947785615921
+ORF 3	open reading frame 3	0.7400646209716797
+ERGIC	endoplasmatic reticulum/Golgi intermediate compartment	0.7693604826927185
+FIP	feline infectious peritonitis	0.5209614634513855
+FECV	feline enteric coronavirus	0.6482213735580444
+RIDT	rapid influenza diagnostic test	0.6207142472267151
+alum	aluminium	0.5030484795570374
+EAV	equine arteritis virus	0.6840049028396606
+2009 H1N1	Influenza A/H1N1 virus	0.8065552711486816
+TCAD	triple combination antiviral drug	0.4303596019744873
+p3D-NT56/S. cho	p3D-NT56) of FMDV. We used guinea pigs to evaluate the inhibitory effects of recombinant S. cho	0.2810347378253937
+a	Africa:	0.06099442020058632
+b	burden;	0.22712017595767975
+MAbs	monoclonal antibodies	0.7714950442314148
+CPV	Canine parvovirus	0.6671947836875916
