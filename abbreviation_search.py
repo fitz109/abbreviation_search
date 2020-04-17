@@ -4,6 +4,12 @@ import numpy as np
 from scispacy.abbreviation import AbbreviationDetector
 from sklearn.metrics.pairwise import cosine_similarity
 
+def get_dict_from_csv(file, key, value, sep='\t'):
+    data = pd.read_csv(file, sep=sep)
+    rez = data.set_index(key)[value].to_dict()
+
+    return rez
+
 def semantic_similarity(nlp, x, y):
 ### returns cosine distance between x and y nlp embeddings
     x_vec = nlp(x).vector.reshape(1, -1)
