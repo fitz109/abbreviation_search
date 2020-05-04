@@ -1,0 +1,8 @@
+/Scripts
+/Lib
+/Include
+/dist
+/build
+/abbreviation_search.egg-info
+/pyvenv.cfg
+/.idea
